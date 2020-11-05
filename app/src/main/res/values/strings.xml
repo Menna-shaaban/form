@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">form</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="faculty">Enter a valid data</string>
+    <string name="ageerror">Enter a valid age</string>
+    <string name="user">UserName</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="q1">University/faculty of?</string>
+    <string name="q2">Choose a Committee</string>
+    <string name="q3">Have you ever joined another team?</string>
+    <string name="q4">Do you have a background of knowledge in this field?</string>
+    <string name="q5">Your Age</string>
+</resources>
